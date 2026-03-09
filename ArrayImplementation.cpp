@@ -46,5 +46,4 @@ int main(){
     cout<<st.size();
     cout<<endl;
     st.display();
-
 }
